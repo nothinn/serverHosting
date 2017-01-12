@@ -141,6 +141,16 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="files\css\main.css" />
+    <Content Include="files\css\normalize.css" />
+    <Content Include="files\index.html" />
+    <Content Include="files\js\Chart.min.js" />
+    <Content Include="files\js\main.js" />
+    <Content Include="files\js\plugins.js" />
+    <Content Include="files\js\require.js" />
+    <Content Include="files\js\test.js" />
+    <Content Include="files\js\vendor\jquery-1.12.0.min.js" />
+    <Content Include="files\js\vendor\modernizr-2.8.3.min.js" />
     <Content Include="files\test.txt" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -149,6 +159,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="files\js\data.json" />
     <None Include="Properties\PublishProfiles\serverHosting.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
