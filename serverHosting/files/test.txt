@@ -1,2 +1,3 @@
 ﻿The test,
  Without a new file
+And now is a speed test
